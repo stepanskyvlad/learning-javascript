@@ -7,4 +7,10 @@ let item = "flashlight";
 
 const collection = ["Piggy", item, 5, true];
 
+collection[2] = "camera"
+collection[collection.length] = "new item"
+collection[9] = "at the end"
+console.log(collection[8])
 console.log(collection);
+console.log(collection.length)
+console.log(collection[1]);
