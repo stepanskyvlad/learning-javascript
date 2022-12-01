@@ -30,7 +30,7 @@ function Backpack(
   };
 }
 
-const everydayPack = new Backpack(
+const item = new Backpack(
   "Everyday Backpack",
   30,
   "grey",
