@@ -7,3 +7,5 @@ var summation = function (num) {
   }
   return mySum
 }
+
+console.log(summation(4))
